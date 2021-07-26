@@ -1,7 +1,7 @@
 # RFM
 ## RFM analysis on raw transaction data
 
-For this project I used the retail transaction and promotion response data set from [Kaggle](https://www.kaggle.com/regivm/retailtransactiondata?select=Retail_Data_Transactions.csv)
+For this project I used the retail transaction and promotion response data set from [Kaggle.](https://www.kaggle.com/regivm/retailtransactiondata?select=Retail_Data_Transactions.csv)
 The data provides customer and date level transactions for a few years. The data also provides response information of customers to a promotion campaign.
 
 Transaction data provides customer_id, transaction date and amount of purchase. Response data provides the response information of each of the customers. It is a binary variable indicating whether the customer responded to a campaign or not.
