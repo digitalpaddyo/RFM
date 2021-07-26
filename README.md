@@ -1,5 +1,5 @@
 # RFM
-RFM analysis on raw transaction data
+## RFM analysis on raw transaction data
 
 For this project I used the retail transaction and promotion response data set from Kaggle.
 The data provides customer and date level transactions for a few years. The data also provides response information of customers to a promotion campaign.
