@@ -13,3 +13,4 @@ The accuracy was very high for every model and the MSE was very low for Linear R
 
 To account for the imbalanced data set, I used the Balanced Bagging Classifier. The result was less FN (error) for a yes response and more FN (error) for a no response which is what you would expect from a more balanced dataset.
 
+There is no clear winner for best model. Each one has its strengths and weaknesses. It depends on the business case.
